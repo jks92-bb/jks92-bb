@@ -22,10 +22,17 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jks92-bb&theme=transparent&count_private=true" width="65%">
 </p>
 
+## 🛠tech stack
 <hr>
 <p align = "center">
-<br/>🛠tech stack<br/>
+
 </p>
+<p align ="center">
+<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp     
+</p>
+python
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
