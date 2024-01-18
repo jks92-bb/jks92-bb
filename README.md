@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jks92-bb&theme=transparent&count_private=true" width="65%">
 </p>
 
-<## align="center">🛠tech stack
+## 🛠tech stack
 
 <p align ="center">
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/pycharm-000000?style=flat-squre&logo=pycharm&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-squre&logo=intellijidea&logoColor=white"/></a> &nbsp
+
 
 </p>
 
