@@ -30,8 +30,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/pycharm-000000?style=flat-squre&logo=pycharm&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-squre&logo=intellijidea&logoColor=white"/></a> &nbsp
-
-
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-squre&logo=html5&logoColor=white"/></a> &nbsp
+</p>
+<p align ="center">
+<img src="https://img.shields.io/badge/visualstudio-007ACC?style=flat-square&logo=visualstudio&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/pycharm-000000?style=flat-squre&logo=pycharm&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-squre&logo=intellijidea&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-squre&logo=html5&logoColor=white"/></a> &nbsp
 </p>
 
 
