@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20My%20GitHub&animation=twinkling&fontSize=40)
+<h3 align="center"> 🏆 Github Stats </h3>
+<p align ="center">
 [![jks92-bb GitHub stats](https://github-readme-stats.vercel.app/api?username=jks92-bb)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jks92-bb&langs_count=10&layout=compact)]()
