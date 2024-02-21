@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 </p>
 
-## myblog
+## 📗myblog
 
 <p align = "center">
-   ## [깃북](https://ks92-information.gitbook.io/introduction/)
+   📗[GitBook](https://ks92-information.gitbook.io/introduction/)
 </p>
 
 
