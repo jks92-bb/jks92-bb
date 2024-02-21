@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 
 ## 📗myblog
 
-📗 [GitBook](https://ks92-information.gitbook.io/introduction/)
-
+<p align = "center">
+📗 GitBook (https://ks92-information.gitbook.io/introduction/)
+</p>
 
 
    
