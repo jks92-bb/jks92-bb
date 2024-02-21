@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 ## 📗myblog
 
-<p align = "center">
-   📗[GitBook](https://ks92-information.gitbook.io/introduction/)
+<p align="center">
+   📗[GitBook](https://ks92-information.gitbook.io/introduction/) (링크는 숨겨져 있습니다)
 </p>
 
 
