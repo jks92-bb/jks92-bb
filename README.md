@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> </a> &nbsp
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-squre&logo=html5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
 </p>
 <p align ="center">
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a> &nbsp
