@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <p align ="center">
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> </a> &nbsp
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> </a> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> </a> &nbsp
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> </a> &nbsp
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-squre&logo=html5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 </p>
@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/pycharm-000000?style=flat-squre&logo=pycharm&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-squre&logo=intellijidea&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a> &nbsp
 </p>
 
 ## 📗myblog
