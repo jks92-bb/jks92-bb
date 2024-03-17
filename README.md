@@ -51,23 +51,22 @@ Here are some ideas to get you started:
 📗 CodingBook (https://ks92-information.gitbook.io/introduction/)
 </p>
 
-
-## 날씨에 따른 코디 추천 챗봇
+## 🗂️날씨에 따른 코디 추천 챗봇
 <p align = "center">
 https://github.com/jks92-bb/pyproject
 </p>
 
-## 가계부 프로젝트
+## 🗂️가계부 프로젝트
 <p align = "center">
 https://github.com/Hyno2/C-project
 </p>
 
-## 대구 맛집 조회 프로그램
+## 🗂️대구 맛집 조회 프로그램
 <p align = "center">
 https://github.com/Hyno2/CSharpProject
 </p>
 
-## 게임 커뮤니티 사이트
+## 🗂️게임 커뮤니티 사이트
 <p align = "center">
 https://github.com/db-ung/web_pj
 </p>
