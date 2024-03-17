@@ -71,6 +71,11 @@ https://github.com/Hyno2/CSharpProject
 https://github.com/db-ung/web_pj
 </p>
 
+## 🗂️공부기록
+<p align = "center">
+https://github.com/jks92-bb/studyone
+</p>
+
 
 
    
